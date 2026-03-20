@@ -1,5 +1,6 @@
 #company hostsfile#
 192.168.25.1 localhost
-192.168.25.2 second localhost
+192.168.25.3 second localhost
 192.168.25.3 third localhot
 192.168.25.4 forth localhost
+192.168.25.5 fifth local host
